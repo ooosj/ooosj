@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/ooosj" target="_blank"><img src="https://img.shields.io/badge/Python-blue?style=flat&logo=3776AB&logoColor=3776AB"/></a>
+<a href="https://github.com/ooosj" target="_blank"><img src="https://img.shields.io/badge/Python-indigoblue?style=flat&logo=3776AB&logoColor=3776AB"/></a>
 <!--
 **ooosj/ooosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
