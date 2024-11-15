@@ -5,7 +5,6 @@
   <br>
   
   Welcome to my github!😁<br>
-  I'm studying to become a web software engineer
 
 
   <h2>💻Tech Stack</h2>
